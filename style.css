@@ -1,4 +1,10 @@
 .product {
+    height: 420px;
+    width: 366px;
+    background: #faf4ef;
+    border-radius: 0 0 0 50px;
+    padding: 43px 34px 0 33px;
+    margin: 100px auto 0;
 
 }
 .product__title {
@@ -8,5 +14,5 @@
 
 }
 .product__img {
-    
+
 }
